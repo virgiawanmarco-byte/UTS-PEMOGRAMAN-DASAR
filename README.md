@@ -1,7 +1,7 @@
 # Aplikasi Pengolah Data Inventaris Toko (CLI)
 
 UTS Pemrograman Dasar (TK091) - Universitas Amikom Yogyakarta, Semester Ganjil 2026/2027
-Nama: [ISI NAMA] | NIM: [ISI NIM] | Link repository: [ISI URL REPOSITORY]
+Nama: Marco Virgiawan Prabuarto | NIM: 25.83.1220 | Link repository: https://github.com/virgiawanmarco-byte/UTS-PEMOGRAMAN-DASAR.git
 
 ## Deskripsi
 Aplikasi command line berbasis Python (hanya standard library) untuk mengolah data
