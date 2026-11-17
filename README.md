@@ -69,6 +69,9 @@ Alur dependensi: `main -> cli -> (loader -> validator -> exceptions), processor,
 | Input menu salah | diulang sampai valid; Ctrl+C/EOF keluar dengan rapi |
 
 ## Referensi dan Bantuan AI
-- Dokumentasi Python: docs.python.org (modul `csv`, `json`, `argparse`, `unittest`)
-- Bantuan AI: Claude (Anthropic) digunakan untuk membantu menyusun kerangka kode dan dokumentasi;
-  kode telah dipelajari, dijalankan, dan diuji oleh penulis. [SESUAIKAN BAGIAN INI]
+- Dokumentasi resmi Python (docs.python.org): modul csv, json, argparse, unittest.
+- Library: hanya Python standard library, tidak ada dependency eksternal.
+- Bantuan AI: saya menggunakan Claude (Anthropic) untuk membantu menyusun
+  rancangan aplikasi, kode program, unit test, README, dan lembar jawaban.
+  Saya menjalankan sendiri program di komputer saya, menguji hasilnya,
+  mengunggah proyek ke GitHub, dan mempelajari cara kerja kodenya.
