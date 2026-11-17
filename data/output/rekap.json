@@ -1,0 +1,35 @@
+{
+  "total_jenis_barang": 13,
+  "nilai_total_persediaan": 5100500,
+  "rekap_kategori": {
+    "Sembako": {
+      "jumlah_jenis": 4,
+      "total_stok": 78,
+      "nilai_persediaan": 2809000
+    },
+    "Kebersihan": {
+      "jumlah_jenis": 4,
+      "total_stok": 219,
+      "nilai_persediaan": 847500
+    },
+    "Minuman": {
+      "jumlah_jenis": 3,
+      "total_stok": 275,
+      "nilai_persediaan": 850000
+    },
+    "Makanan Ringan": {
+      "jumlah_jenis": 2,
+      "total_stok": 162,
+      "nilai_persediaan": 594000
+    }
+  },
+  "supplier": [
+    "CV Manis Jaya",
+    "CV Wangi Abadi",
+    "PT Bersih Sejahtera",
+    "PT Pangan Makmur",
+    "PT Tirta Nusa",
+    "UD Camilan Bantul",
+    "UD Peternak Sleman"
+  ]
+}

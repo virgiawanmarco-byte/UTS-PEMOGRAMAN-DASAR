@@ -1,0 +1,14 @@
+kode,nama,kategori,stok,harga,supplier
+BRG001,Beras Premium 5kg,Sembako,25,68000,PT Pangan Makmur
+BRG002,Minyak Goreng 2L,Sembako,8,38000,PT Pangan Makmur
+BRG003,Gula Pasir 1kg,Sembako,40,16500,CV Manis Jaya
+BRG004,Telur Ayam 1kg,Sembako,5,29000,UD Peternak Sleman
+BRG005,Sabun Mandi Batang,Kebersihan,60,4500,PT Bersih Sejahtera
+BRG006,Shampoo Sachet,Kebersihan,120,1500,PT Bersih Sejahtera
+BRG007,Deterjen 800g,Kebersihan,9,17500,CV Wangi Abadi
+BRG008,Air Mineral 600ml,Minuman,200,3500,PT Tirta Nusa
+BRG009,Teh Botol 450ml,Minuman,0,5500,PT Tirta Nusa
+BRG010,Kopi Sachet,Minuman,75,2000,CV Manis Jaya
+BRG011,Mie Instan Goreng,Makanan Ringan,150,3200,PT Pangan Makmur
+BRG012,Keripik Singkong,Makanan Ringan,12,9500,UD Camilan Bantul
+BRG016,Tisu Wajah,Kebersihan,30,8000,CV Wangi Abadi

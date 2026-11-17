@@ -1,0 +1,5 @@
+[
+  {"kode": "JSN001", "nama": "Pensil 2B", "kategori": "ATK", "stok": 50, "harga": 2500, "supplier": "CV Tulis Jaya"},
+  {"kode": "JSN002", "nama": "Buku Tulis", "kategori": "ATK", "stok": 4, "harga": 5000, "supplier": "CV Tulis Jaya"},
+  {"kode": "JSN003", "nama": "Penghapus", "kategori": "ATK", "stok": "x", "harga": 1000, "supplier": "CV Tulis Jaya"}
+]
